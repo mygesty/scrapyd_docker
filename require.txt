@@ -1,0 +1,12 @@
+scrapy-redis
+scrapy-redis-bloomfilter
+scrapy-splash
+scrapy
+numpy
+sklearn
+pillow
+pymysql
+scrapyd
+scrapyd-client
+redis
+
